@@ -1,2 +1,2 @@
-# Active-Directory-Web-Phone-Book
-Phone Book with information about employees base on Active Directory.
+# Active-Directory-Web-Phone-Book-with-PHP
+Active Directory Web Phone Book with PHP
